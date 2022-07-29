@@ -12,6 +12,6 @@
 
 Core Idea of Project is to build an sample prototype Gym Website with QnA Bot for people with the help of HTML, CSS and AZURE SERVICES. Across a wide range of industries, chatbots have been an efficiency-enhancing way for business teams to interact with their customers. Chatbots are conversational agents that leverage machine learning and natural language processing to understand intent in order to reply with appropriate answers, and they have advantages. First, they are accessible any time, to obtain answers 24/7. Second, chatbots have a higher handling capacity than any human. A single chat bot can simultaneously have conversations with thousands of people no matter what time of day. Regardless of the volume of calls, every question may be answered immediately.
 
-<h3>Azure Technology:</h3>Static Web App  Azure Bot Service
+**Azure Technology:** Static Web App and Azure Bot Service
 
 **Project Link :** https://kind-smoke-05c89ec00.1.azurestaticapps.net/
